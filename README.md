@@ -21,7 +21,7 @@
 - **Git log:** It display the history of the git repositary. 
 **Command:**
 `git log`
-**git diff: **It is used to show the difference between the various states of git repositary.
+- **git diff:** It is used to show the difference between the various states of git repositary.
 **command:**
 `git diff`
 `git diff head`
