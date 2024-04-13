@@ -23,21 +23,21 @@
 `git log`
 **git diff: **It is used to show the difference between the various states of git repositary.
 **command:**
-git diff
-git diff head
-git diff --staged
+`git diff`
+`git diff head`
+`git diff --staged`
 - **git commit -amend:** It is used to modify the most recent commit in git history.
 **command:**
-git commit -amend
+`git commit -amend`
 - **git rebase <base>:** It is used to re apply the series of commits onto a different base commit. It integrate the changes from one branch to another branch
 **command:**
-git rebase <base>
+`git rebase <base>`
 - **git reflog:** It display the log of all actions taken your repositary including commits,checkouts,mergesrebase....
 - **git branch:** It is used to list,delete and create the branch in git repositary.
 **Commands:**
-'git branch'
-git branch <branch name >
-git branch feature
+`git branch`
+`git branch <branch name >`
+`git branch feature`
 git checkout -b <branch name>:
 
 
