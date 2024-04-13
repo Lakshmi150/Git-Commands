@@ -35,7 +35,7 @@ git rebase <base>
 - **git reflog:** It display the log of all actions taken your repositary including commits,checkouts,mergesrebase....
 - **git branch:** It is used to list,delete and create the branch in git repositary.
 **Commands:**
-git branch
+'git branch'
 git branch <branch name >
 git branch feature
 git checkout -b <branch name>:
